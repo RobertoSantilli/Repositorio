@@ -1,0 +1,18 @@
+{
+    "userNotRegistered": "pushingit2555",
+    "invalidUser": "pushingit**",
+    "invalidPassword": "Abcde",
+    "incorrectPassword": "Abc123*",
+    "password5chars": "Abc1!",
+    "passwords17chars": "Abc1234567891234!",
+
+    "errorMessages": {
+        "userNull": "Completa este campo",
+        "passwordNull": "Completa este campo",
+        "invalidPassword": "Password must have a special character and a number",
+        "userNotRegistered": "Credentials were not found",
+        "invalidUser": "Username cannot have special characters",
+        "passwordLength": "Password must have between 6 and 16 characters",
+        "invalidcredential": "Credentials are invalid"
+    }
+}

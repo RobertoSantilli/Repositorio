@@ -1,0 +1,24 @@
+{
+    "products": {
+        "product_1987": {
+            "id": 1987,
+            "img": "https://http2.mlstatic.com/D_NQ_NP_781306-MCO72820529877_112023-O.webp",
+            "quantity": 2,
+            "name": "Chaqueta Negra",
+            "price": 153
+    },
+        "product_1988": {
+            "id": 1988,
+            "img": "https://static.dafiti.com.co/p/casio-7602-4160301-1-product.jpg",
+            "quantity": 2,    
+            "name": "Reloj Blanco",
+            "price": 102
+        }
+    },
+
+    "user": {  
+        "name": "Pushing",
+        "lastname": "IT",
+        "creditcard": 1234123412341234
+    }
+}

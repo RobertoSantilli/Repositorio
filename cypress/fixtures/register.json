@@ -1,0 +1,21 @@
+{
+    "password": "Abc123!",
+    "gender": "Male",
+    "dayOfBirth": 18,
+    "monthOfBirth": "April",
+    "yearOfBirth": "1988",
+    "invalidUser": "pushingit2025!**",
+    "invalidPassword": "Abcde*",
+    "password5chars": "Abc1!",
+    "passwords17chars": "Abc1234567891234!",
+
+    "errorMessages": {
+        "userNull": "Completa este campo",
+        "passwordNull": "Completa este campo",
+        "invalidPassword": "Password must have a special character and a number",
+        "invalidUser": "Username cannot have special characters",
+        "gendenullrError": "Selecciona una de estas opciones",
+        "existingUser": "Username already existing in the database",
+        "passwordLength": "Password must have between 6 and 16 characters"
+    }
+}
